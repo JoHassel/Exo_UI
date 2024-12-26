@@ -6,8 +6,8 @@
 </figure> 
 
 ## Project
-* develop a UI for a 4-DOF lower limb exoskeleton
-* wireless communication to main controller via WiFi
+* development of a UI for a 4-DOF lower limb exoskeleton
+* communication to main controller via WiFi
 * "Single Actuator Control Unit" (SACU) for manual control of actuators
 
 
