@@ -39,7 +39,6 @@
 <br>
 <br>
 <br>
-<br>
 
 <figure>
   <img src="Images/Blockschaltbild_SACU_final.png" width=50%>
