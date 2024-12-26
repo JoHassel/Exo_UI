@@ -16,13 +16,16 @@
 * Teensy 3.6 with ArduinoIDE
 * 2 buttons to toggle and activate one of the 6 available modes
 
+
+## EDA
+* Schematics with Eagle 9.6.2
+
+### Block Diagram
+
 <figure>
   <img src="Images/Main_UI.jpg" width=60%>
   <figcaption>Fig.2 - Exoskeleton Modes </figcaption>
 </figure> 
-
-## EDA
-* Schematics with Eagle 9.6.2
 
 ## CAD 
 * 3D printed case
