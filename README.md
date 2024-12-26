@@ -26,3 +26,10 @@
 
 ## CAD 
 * 3D printed case
+
+<figure>
+  <img src="Images/SACU.jpg" width=60%>
+  <figcaption>Fig.3 - 3D-printed SACU case </figcaption>
+</figure> 
+
+
