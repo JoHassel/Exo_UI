@@ -51,7 +51,7 @@
 ## 3D 
 <figure>
   <img src="Images/SACU.jpg" width=60%>
-  <figcaption>Fig.3 - 3D-printed SACU case </figcaption>
+  <figcaption>Fig.5 - 3D-printed SACU case </figcaption>
 </figure> 
 
 
