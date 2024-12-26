@@ -1,7 +1,7 @@
 # RISE UI - Exoskeleton UI (TU Berlin RISE SoSe 2023)
 
 <figure>
-  <img src="Images/Main_UI_2.jpg" width=60%>
+  <img src="Images/Main_UI_2.jpg" width=50%>
   <figcaption>Fig.1 - Main UI </figcaption>
 </figure> 
 
@@ -19,7 +19,7 @@
 <br>
 
 <figure>
-  <img src="Images/Main_UI.jpg" width=60%>
+  <img src="Images/Main_UI.jpg" width=50%>
   <figcaption>Fig.2 - Modes Exoskeleton </figcaption>
 </figure> 
 
@@ -50,7 +50,7 @@
 
 ## 3D 
 <figure>
-  <img src="Images/SACU.jpg" width=60%>
+  <img src="Images/SACU.jpg" width=50%>
   <figcaption>Fig.5 - 3D-printed SACU case </figcaption>
 </figure> 
 
