@@ -16,20 +16,40 @@
 * Teensy 3.6 with ArduinoIDE
 * 2 buttons to toggle and activate one of the 6 available modes
 
-
-## EDA
-* Schematics with Eagle 9.6.2
-
-### Block Diagram
+<br>
 
 <figure>
   <img src="Images/Main_UI.jpg" width=60%>
-  <figcaption>Fig.2 - Exoskeleton Modes </figcaption>
+  <figcaption>Fig.2 - Modes Exoskeleton </figcaption>
 </figure> 
 
-## CAD 
-* 3D printed case
+<br>
+<br>
 
+
+## EDA
+* Schematics with Eagle 9.6.2
+<br>
+
+<figure>
+  <img src="Images/Blockschaltbild_Main_UI_final.png" width=50%>
+  <figcaption>Fig.3 - Block Diagram Main UI </figcaption>
+</figure> 
+
+<br>
+<br>
+<br>
+<br>
+
+<figure>
+  <img src="Images/Blockschaltbild_SACU_final.png" width=50%>
+  <figcaption>Fig.4 - Block Diagram SACU </figcaption>
+</figure> 
+
+<br>
+<br>
+
+## 3D 
 <figure>
   <img src="Images/SACU.jpg" width=60%>
   <figcaption>Fig.3 - 3D-printed SACU case </figcaption>
