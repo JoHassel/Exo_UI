@@ -13,11 +13,19 @@
 
 
 ## Firmware 
-* UI Control with Teensy 3.6
+* UI Control with Teensy 4.1
 * WiFi Connection with ESP32 Adafruit Airlift Module 
-* programming via ArduinoIDE
-* 2 buttons to toggle and activate one of the 6 available modes
-* see [Code/Flow_Chart](Code/Flow_Chart) for code structure  
+* programming via PlatformIO
+
+### Structure
+* see [Code/Flow_Chart](Code/Flow_Chart) for detailed code structure
+
+<br>
+
+* 2 buttons: 1 TOGGLE button + SELECTION button
+* 6 modes: WALK, SIDE STEP, STAND UP, SIT DOWN, UPSTAIRS, DOWNSTAIRS
+* if last selection was SIT DOWN: only STAND UP as next mode possible
+* if exo in standing position: every mode except STAND UP possible 
 
 <br>
 
