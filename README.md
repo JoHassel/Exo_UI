@@ -7,14 +7,14 @@
 
 ## Project
 * development of an UI for a 4-DOF lower limb exoskeleton 
-* communication to exo main controller via WiFI (ESP32 Adafruit Airlift Module)
+* communication to exo main controller via WiFI (ESP32 Adafruit Airlift)
 * "Single Actuator Control Unit" (SACU) for manual control of actuators
 
 
 
 ## Firmware 
-* UI Control with Teensy 4.1
-* WiFi Connection with ESP32 Adafruit Airlift Module 
+* UI Control with [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
+* WiFi Connection with [ESP32 Adafruit Airlift](https://www.adafruit.com/product/4201)  
 * programming via PlatformIO
 
 ### Structure
@@ -39,7 +39,18 @@
 
 
 ## EDA
-* Schematics with Eagle 9.6.2
+* [Schematics](EDA) with Eagle 9.6.2
+* SPI Communication Interfaces for Teensy-to-Wifi Module and Teensy-to-LCD  
+
+### Components
+* [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
+* [Adafruit Airlift](https://www.adafruit.com/product/4201)
+* [Piezo transducer](https://www.reichelt.com/de/en/shop/product/piezo_transducer_85_db_4_khz-35927) for acoustic feedback when mode is selected
+* [2.4 inch LCD Display](https://www.waveshare.com/2.4inch-lcd-module.htm)
+* [5000mAh Powerbank](https://www.intenso.de/produkte/powerbanks/xs5000-xs10000-xs20000/) for 5V power supply
+* [Vibration Motor](https://www.reichelt.de/de/de/shop/produkt/dc-vibrationsmotor_3v_80ma_10000rpm-330549) for vibration feedback when toggling --> vibration with current from Teensy is too low, use [relay](https://www.christians-shop.de/1-Kanal-5V-Relay-Relais-Modul-10A-250VAC?gQT=1) + 5V powerbank instead
+* 
+
 <br>
 
 <figure>
