@@ -17,7 +17,7 @@
 * WiFi Connection with ESP32 Adafruit Airlift Module 
 * programming via ArduinoIDE
 * 2 buttons to toggle and activate one of the 6 available modes
-* see Program Flow Chart for code structure  
+* see [Code/Flow_Chart](Code/Flow_Chart) for code structure  
 
 <br>
 
