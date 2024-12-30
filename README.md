@@ -22,7 +22,7 @@
 
 <br>
 
-* 2 buttons: 1 TOGGLE button + SELECTION button
+* 2 buttons: TOGGLE button + SELECTION button
 * 6 modes: WALK, SIDE STEP, STAND UP, SIT DOWN, UPSTAIRS, DOWNSTAIRS
 * if last selection was SIT DOWN: only STAND UP as next mode possible
 * if exo in standing position: every mode except STAND UP possible 
