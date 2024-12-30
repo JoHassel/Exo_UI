@@ -51,6 +51,7 @@
 * [2.4 inch LCD Display](https://www.waveshare.com/2.4inch-lcd-module.htm)
 * [5000mAh Powerbank](https://www.intenso.de/produkte/powerbanks/xs5000-xs10000-xs20000/) for 5V power supply
 * [Vibration Motor](https://www.reichelt.de/de/de/shop/produkt/dc-vibrationsmotor_3v_80ma_10000rpm-330549) for vibration feedback when toggling --> vibration with current from Teensy is too low, use [relay](https://www.christians-shop.de/1-Kanal-5V-Relay-Relais-Modul-10A-250VAC?gQT=1) + 5V powerbank instead
+* LED @SACU: on when SACU on, blinking when motor active
 
 <br>
 
