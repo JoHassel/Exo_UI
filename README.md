@@ -6,9 +6,11 @@
 </figure> 
 
 ## Project
-* development of an UI for a 4-DOF lower limb exoskeleton 
-* communication to exo main controller via WiFI (ESP32 Adafruit Airlift)
-* "Single Actuator Control Unit" (SACU) for manual control of actuators
+* development of an UI for a 4-DOF lower limb exoskeleton
+* UI contains 2 parts:
+
+1. **Main UI** (communication to exo main controller via WiFi, see Fig.1)
+2. **SACU** ("Single Actuator Control Unit") for manual control of actuators (see Fig.5)
 
 
 
@@ -39,7 +41,7 @@
 
 
 ## EDA
-* [Schematics](EDA) with Eagle 9.6.2
+* Schematics with Eagle 9.6.2
 * SPI Communication Interfaces for Teensy-to-Wifi Module and Teensy-to-LCD  
 
 ### Components
@@ -49,7 +51,6 @@
 * [2.4 inch LCD Display](https://www.waveshare.com/2.4inch-lcd-module.htm)
 * [5000mAh Powerbank](https://www.intenso.de/produkte/powerbanks/xs5000-xs10000-xs20000/) for 5V power supply
 * [Vibration Motor](https://www.reichelt.de/de/de/shop/produkt/dc-vibrationsmotor_3v_80ma_10000rpm-330549) for vibration feedback when toggling --> vibration with current from Teensy is too low, use [relay](https://www.christians-shop.de/1-Kanal-5V-Relay-Relais-Modul-10A-250VAC?gQT=1) + 5V powerbank instead
-* 
 
 <br>
 
