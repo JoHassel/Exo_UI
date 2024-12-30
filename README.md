@@ -1,4 +1,4 @@
-# RISE UI - Exoskeleton UI (TU Berlin RISE SoSe 2023)
+# RISE UI - Exoskeleton UI ([TU Berlin RISE SoSe 2023](https://blogs.tu-berlin.de/mt_rise/en/home/))
 
 <figure>
   <img src="Images/Main_UI_2.jpg" width=50%>
@@ -6,15 +6,18 @@
 </figure> 
 
 ## Project
-* development of a UI for a 4-DOF lower limb exoskeleton
-* communication to main controller via WiFi
+* development of an UI for a 4-DOF lower limb exoskeleton 
+* communication to exo main controller via WiFI (ESP32 Adafruit Airlift Module)
 * "Single Actuator Control Unit" (SACU) for manual control of actuators
 
 
 
 ## Firmware 
-* Teensy 3.6 with ArduinoIDE
+* UI Control with Teensy 3.6
+* WiFi Connection with ESP32 Adafruit Airlift Module 
+* programming via ArduinoIDE
 * 2 buttons to toggle and activate one of the 6 available modes
+* see Program Flow Chart for code structure  
 
 <br>
 
